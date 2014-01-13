@@ -1,0 +1,76 @@
+package cirlab.common.util;
+
+/**
+ * Esta contiene las diferentes constantes que pueden ser empleadas para efectuar
+ * las notificaciones de operaciones del cliente y el servidor
+ *
+ * @author Humberto Rodriguez Avila
+ * @author Julio César Rodriguez Cano
+ *
+ * @version 1.0
+ *
+ * @since 10-mar-2010 ; 21:29:29
+ */
+public class NotifyAction {
+
+    /**
+     * Notificar mensaje
+     */
+    public static final int NOTIFY_MESSAGE = 1;
+    /**
+     * Notificar recomendación
+     */
+    public static final int NOTIFY_RECOMMENDATION = 2;
+    /**
+     * Notificar resultados de búsqueda
+     */
+    public static final int NOTIFY_RESULTS_SEARCH = 3;
+    /**
+     * Notificar actualización de la sesión
+     */
+    public static final int NOTIFY_UPDATE_SESSION = 4;
+    /**
+     * Notificar estado actual del servidor
+     */
+    public static final int NOTIFY_STATUS_SERVER = 5;
+    /**
+     * Notificar admision de sesión
+     */
+    public static final int NOTIFY_REQUEST_CONFIRM_SESSION = 6;
+    /**
+     * Notificar la conclusión de operación
+     */
+    public static final int NOTIFY_CONCLUSION_OPERATION = 7;
+    /**
+     * Notificar creación de sesión colaborativa de búsqueda
+     */
+    public static final int NOTIFY_CREATED_COLLAB_SESSION = 9;
+    /**
+     * Notificar desconección del usuario
+     */
+    public static final int NOTIFY_MEMBER_DISCONNECTION = 11;
+    /**
+     * Notificar buscadores disponibles
+     */
+    public static final int NOTIFY_AVAILABLE_SEARCHERS = 15;
+    /**
+     * Notificar inicio de sesión colaborativa de búsqueda
+     */
+    public static final int NOTIFY_BEGIN_COLLAB_SESSION = 16;
+    /**
+     * Notificar culminación de sesión colaborativa de búsqueda
+     */
+    public static final int NOTIFY_END_COLLAB_SESSION = 17;
+    /**
+     * Notificar documentos indexados
+     */
+    public static final int NOTIFY_INDEXED_DOCUMENT = 18;
+      /**
+     * Notificar documentos adicionados al índice
+     */
+    public static final int NOTIFY_ADDED_DOCUMENT = 19;
+        /**
+     * Notificar cantidad de documentos de un índice
+     */
+    public static final int NOTIFY_LOADED_DOCUMENT = 20;
+}
