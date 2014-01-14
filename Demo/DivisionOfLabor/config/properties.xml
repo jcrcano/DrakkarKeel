@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<configuration>
-<parameter name="ACTIVE_MONITOR" value="true"/>
-<parameter name="CONSOLE_OUTPUT" value="true"/>
-<parameter name="LOG_FILE_OUTPUT" value="false"/>
-</configuration>
