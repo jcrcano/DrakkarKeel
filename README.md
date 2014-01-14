@@ -7,15 +7,15 @@ DrakkarKeel is an enterprise collaborative search platform to enable smarter sea
 
 Directories:
 
-server
+DrakkarStern
 
-client
+DrakkarProw
 
-common
+DrakkarOar
 
-ui
+DrakkarCover
 
-demo
+Demo
 
 
 Environment:
