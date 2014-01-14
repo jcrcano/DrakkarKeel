@@ -1,0 +1,4 @@
+# Ignores
+\.build
+\.config
+\.nbproject

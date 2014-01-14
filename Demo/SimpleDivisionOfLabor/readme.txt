@@ -1,2 +1,0 @@
-SimpleDivisionOfLabor DAPP
-==========================
