@@ -1,0 +1,1 @@
+Drakkar ShipyardServer is Web-based application for management the back-end services of an enterprise collaborative search system.
